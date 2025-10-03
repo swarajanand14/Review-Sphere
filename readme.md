@@ -149,11 +149,6 @@ Future Enhancements
 - Advanced analytics with time-series visualizations.
 - Deploy as a single Dockerized application.
 
----
-
-License
--------
-This project is licensed under the MIT License.
 
 ---
 
