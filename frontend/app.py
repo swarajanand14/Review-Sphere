@@ -4,7 +4,7 @@ import pandas as pd
 import altair as alt
 
 # Backend API URL
-API_BASE_URL = "http://127.0.0.1:8000"  # Replace with your backend URL if deployed
+API_BASE_URL = "https://review-sphere-backend-d4ub.onrender.com"  # Replace with your backend URL if deployed
 
 # Helper functions to interact with the backend
 def fetch_reviews(location=None, q=None):
