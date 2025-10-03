@@ -1,0 +1,24 @@
+### Ingest Reviews
+POST http://127.0.0.1:8000/ingest
+Content-Type: application/json
+
+[
+  {
+    "location": "NYC",
+    "rating": 5,
+    "text": "Amazing service!",
+    "date": "2025-10-01"
+  }
+]
+
+### Get Reviews
+GET http://127.0.0.1:8000/reviews
+
+### Analytics
+GET http://127.0.0.1:8000/analytics
+
+### Search Similar Reviews
+GET http://127.0.0.1:8000/search?q=great service&k=5
+
+### Suggest Reply
+POST http://127.0.0.1:8000/reviews/1/suggest-reply

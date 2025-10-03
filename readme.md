@@ -86,17 +86,15 @@ Installation
 Deployment
 ----------
 
-Backend Deployment:
-- Deploy the backend on Render or Railway.
-- Use the following commands for deployment:
-  Build Command: pip install -r requirements.txt
-  Start Command: uvicorn main:app --host 0.0.0.0 --port 8000
+Backend Deployment
+Platform: Render
+URL: https://review-sphere-backend-d4ub.onrender.com
 
-Frontend Deployment:
-- Deploy the frontend on Render or Streamlit Community Cloud.
-- Use the following commands for deployment:
-  Build Command: pip install -r requirements.txt
-  Start Command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+
+
+Frontend Deployment
+Platform: Render
+URL: https://review-sphere-frontend.onrender.com
 
 ---
 
@@ -141,6 +139,17 @@ API Endpoints
    - Description: Generate an AI-suggested reply for a review.
 
 ---
+
+Time Spent and Trade-offs
+-------------------------
+
+Time Spent
+Backend development: 3 hours
+Frontend development: 2 hours
+Deployment and testing: 1 hour
+Trade-offs
+Simplified AI logic: Used OpenAI for sentiment analysis and reply generation instead of building a custom model.
+Basic search implementation: Used TF-IDF and cosine similarity for simplicity.
 
 Future Enhancements
 -------------------

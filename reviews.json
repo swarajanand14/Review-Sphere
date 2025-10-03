@@ -1,0 +1,1202 @@
+[
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "LA",
+    "rating": 3,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "Austin",
+    "rating": 1,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "Dallas",
+    "rating": 2,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "LA",
+    "rating": 1,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Denver",
+    "rating": 2,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "Seattle",
+    "rating": 4,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "Seattle",
+    "rating": 1,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "NYC",
+    "rating": 5,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "Boston",
+    "rating": 3,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "NYC",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "SF",
+    "rating": 5,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "Miami",
+    "rating": 5,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "Miami",
+    "rating": 3,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "Chicago",
+    "rating": 5,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "Austin",
+    "rating": 4,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-20"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-21"
+  },
+  {
+    "location": "Chicago",
+    "rating": 4,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-22"
+  },
+  {
+    "location": "NYC",
+    "rating": 3,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-23"
+  },
+  {
+    "location": "Austin",
+    "rating": 4,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-24"
+  },
+  {
+    "location": "Seattle",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-25"
+  },
+  {
+    "location": "Boston",
+    "rating": 4,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-26"
+  },
+  {
+    "location": "SF",
+    "rating": 1,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-27"
+  },
+  {
+    "location": "SF",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-28"
+  },
+  {
+    "location": "Boston",
+    "rating": 4,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-29"
+  },
+  {
+    "location": "Chicago",
+    "rating": 5,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-30"
+  },
+  {
+    "location": "LA",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "Boston",
+    "rating": 4,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "LA",
+    "rating": 4,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "Austin",
+    "rating": 4,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "LA",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "LA",
+    "rating": 2,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Boston",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "Boston",
+    "rating": 5,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "Miami",
+    "rating": 2,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "Austin",
+    "rating": 2,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "Boston",
+    "rating": 1,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "Austin",
+    "rating": 4,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "NYC",
+    "rating": 4,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "SF",
+    "rating": 5,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "Austin",
+    "rating": 4,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "Miami",
+    "rating": 4,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "LA",
+    "rating": 4,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-20"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-21"
+  },
+  {
+    "location": "Chicago",
+    "rating": 2,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-22"
+  },
+  {
+    "location": "Seattle",
+    "rating": 5,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-23"
+  },
+  {
+    "location": "Seattle",
+    "rating": 2,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-24"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-25"
+  },
+  {
+    "location": "NYC",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-26"
+  },
+  {
+    "location": "Chicago",
+    "rating": 2,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-27"
+  },
+  {
+    "location": "NYC",
+    "rating": 1,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-28"
+  },
+  {
+    "location": "Boston",
+    "rating": 5,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-29"
+  },
+  {
+    "location": "LA",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-30"
+  },
+  {
+    "location": "Boston",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "LA",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "NYC",
+    "rating": 1,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "Seattle",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "Boston",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "Boston",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Austin",
+    "rating": 3,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "Chicago",
+    "rating": 4,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "LA",
+    "rating": 3,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "SF",
+    "rating": 3,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "Chicago",
+    "rating": 4,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "Seattle",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "Dallas",
+    "rating": 4,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "Seattle",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "Seattle",
+    "rating": 5,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-20"
+  },
+  {
+    "location": "Chicago",
+    "rating": 5,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-21"
+  },
+  {
+    "location": "Chicago",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-22"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-23"
+  },
+  {
+    "location": "NYC",
+    "rating": 2,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-24"
+  },
+  {
+    "location": "Miami",
+    "rating": 4,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-25"
+  },
+  {
+    "location": "Austin",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-26"
+  },
+  {
+    "location": "Seattle",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-27"
+  },
+  {
+    "location": "NYC",
+    "rating": 2,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-28"
+  },
+  {
+    "location": "Seattle",
+    "rating": 4,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-29"
+  },
+  {
+    "location": "Austin",
+    "rating": 3,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-30"
+  },
+  {
+    "location": "Miami",
+    "rating": 2,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "Boston",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "NYC",
+    "rating": 4,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "Boston",
+    "rating": 1,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "LA",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Chicago",
+    "rating": 2,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "Dallas",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "Dallas",
+    "rating": 2,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "NYC",
+    "rating": 3,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "NYC",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "LA",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "Denver",
+    "rating": 1,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "Seattle",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "Denver",
+    "rating": 1,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "NYC",
+    "rating": 4,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "Dallas",
+    "rating": 5,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "Dallas",
+    "rating": 1,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "Dallas",
+    "rating": 5,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-20"
+  },
+  {
+    "location": "Boston",
+    "rating": 5,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-21"
+  },
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-22"
+  },
+  {
+    "location": "Miami",
+    "rating": 1,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-23"
+  },
+  {
+    "location": "Seattle",
+    "rating": 5,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-24"
+  },
+  {
+    "location": "Miami",
+    "rating": 1,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-25"
+  },
+  {
+    "location": "Denver",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-26"
+  },
+  {
+    "location": "Chicago",
+    "rating": 1,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-27"
+  },
+  {
+    "location": "Miami",
+    "rating": 4,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-28"
+  },
+  {
+    "location": "Boston",
+    "rating": 2,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-29"
+  },
+  {
+    "location": "NYC",
+    "rating": 4,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-30"
+  },
+  {
+    "location": "Chicago",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "Miami",
+    "rating": 4,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "SF",
+    "rating": 3,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "Austin",
+    "rating": 3,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "Boston",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "Denver",
+    "rating": 4,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "Seattle",
+    "rating": 1,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "NYC",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "Miami",
+    "rating": 2,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "NYC",
+    "rating": 2,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "NYC",
+    "rating": 3,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "Dallas",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "SF",
+    "rating": 2,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "Dallas",
+    "rating": 1,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "Chicago",
+    "rating": 1,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "NYC",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-20"
+  },
+  {
+    "location": "SF",
+    "rating": 4,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-21"
+  },
+  {
+    "location": "Dallas",
+    "rating": 5,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-22"
+  },
+  {
+    "location": "SF",
+    "rating": 2,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-23"
+  },
+  {
+    "location": "Miami",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-24"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-25"
+  },
+  {
+    "location": "SF",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-26"
+  },
+  {
+    "location": "Seattle",
+    "rating": 5,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-27"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-28"
+  },
+  {
+    "location": "Seattle",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-29"
+  },
+  {
+    "location": "SF",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-30"
+  },
+  {
+    "location": "Austin",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "Chicago",
+    "rating": 2,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "Chicago",
+    "rating": 4,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "Seattle",
+    "rating": 2,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "Austin",
+    "rating": 3,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "Austin",
+    "rating": 4,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Denver",
+    "rating": 2,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "Austin",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "LA",
+    "rating": 4,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "Dallas",
+    "rating": 2,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "Dallas",
+    "rating": 3,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "NYC",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "Chicago",
+    "rating": 1,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "Miami",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "Seattle",
+    "rating": 4,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "Boston",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "Seattle",
+    "rating": 3,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "NYC",
+    "rating": 4,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "Dallas",
+    "rating": 5,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "Austin",
+    "rating": 5,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-20"
+  },
+  {
+    "location": "Dallas",
+    "rating": 4,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-21"
+  },
+  {
+    "location": "Miami",
+    "rating": 3,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-22"
+  },
+  {
+    "location": "Austin",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-23"
+  },
+  {
+    "location": "Austin",
+    "rating": 5,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-24"
+  },
+  {
+    "location": "Seattle",
+    "rating": 4,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-25"
+  },
+  {
+    "location": "Miami",
+    "rating": 5,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-26"
+  },
+  {
+    "location": "Denver",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-27"
+  },
+  {
+    "location": "LA",
+    "rating": 2,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-28"
+  },
+  {
+    "location": "Austin",
+    "rating": 5,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-29"
+  },
+  {
+    "location": "SF",
+    "rating": 2,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-30"
+  },
+  {
+    "location": "Boston",
+    "rating": 1,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-01"
+  },
+  {
+    "location": "Denver",
+    "rating": 2,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-02"
+  },
+  {
+    "location": "LA",
+    "rating": 3,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-03"
+  },
+  {
+    "location": "Boston",
+    "rating": 3,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-04"
+  },
+  {
+    "location": "LA",
+    "rating": 5,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-05"
+  },
+  {
+    "location": "Denver",
+    "rating": 5,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-06"
+  },
+  {
+    "location": "Miami",
+    "rating": 3,
+    "text": "Average experience, nothing special.",
+    "date": "2025-10-07"
+  },
+  {
+    "location": "Dallas",
+    "rating": 4,
+    "text": "The staff was rude and unhelpful.",
+    "date": "2025-10-08"
+  },
+  {
+    "location": "Denver",
+    "rating": 3,
+    "text": "Excellent service and quick delivery!",
+    "date": "2025-10-09"
+  },
+  {
+    "location": "SF",
+    "rating": 2,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-10"
+  },
+  {
+    "location": "SF",
+    "rating": 3,
+    "text": "Fantastic service and delicious food!",
+    "date": "2025-10-11"
+  },
+  {
+    "location": "SF",
+    "rating": 5,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-12"
+  },
+  {
+    "location": "LA",
+    "rating": 2,
+    "text": "Good experience overall, but the wait time was long.",
+    "date": "2025-10-13"
+  },
+  {
+    "location": "SF",
+    "rating": 3,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-14"
+  },
+  {
+    "location": "SF",
+    "rating": 2,
+    "text": "Terrible experience. The app kept crashing.",
+    "date": "2025-10-15"
+  },
+  {
+    "location": "Chicago",
+    "rating": 3,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-16"
+  },
+  {
+    "location": "SF",
+    "rating": 5,
+    "text": "The food was okay, but the service was slow.",
+    "date": "2025-10-17"
+  },
+  {
+    "location": "SF",
+    "rating": 1,
+    "text": "Great atmosphere and good food.",
+    "date": "2025-10-18"
+  },
+  {
+    "location": "Seattle",
+    "rating": 4,
+    "text": "Amazing service and friendly staff!",
+    "date": "2025-10-19"
+  },
+  {
+    "location": "Boston",
+    "rating": 1,
+    "text": "Horrible experience. Will not return.",
+    "date": "2025-10-20"
+  }
+]
